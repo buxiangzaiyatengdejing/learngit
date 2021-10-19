@@ -1,3 +1,3 @@
 
-Git is a version control system
-Fit is free software
+git IS A DISTRIBUTED VERSION CONTROL
+git is free software
