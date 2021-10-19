@@ -1,0 +1,2 @@
+Git is a distributed version contro; system
+Git has a mutable index called stage
